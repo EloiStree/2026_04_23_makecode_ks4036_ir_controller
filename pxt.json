@@ -1,0 +1,41 @@
+{
+    "name": "Multi-purpose Smart Car - Copy",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "Mini Car": "github:keyestudio2019/MiniCar#6a11b75a8fd87ccce69f3d02ed5c1666aaa25e1e",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.12",
+        "tag": "v5.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/97491d6832cccab6b5bdc05b58e4c6b5dcc18cdd",
+        "target": "8.0.21",
+        "pxt": "8.0.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "open": 1,
+                    "whitelist": 0,
+                    "security_level": null
+                }
+            }
+        }
+    }
+}
