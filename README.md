@@ -1,4 +1,12 @@
 
+<img width="1839" height="920" alt="image" src="https://github.com/user-attachments/assets/bf154014-cf0b-4e5e-ae25-44e0e978c981" />
+
+
+
+-------------------
+
+
+
 > Open this page at [https://eloistree.github.io/2026_04_23_makecode_ks4036_ir_controller/](https://eloistree.github.io/2026_04_23_makecode_ks4036_ir_controller/)
 
 ## Use as Extension
